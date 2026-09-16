@@ -1,9 +1,9 @@
 export const COLORS = {
   primary: '#1565C0',
-  background: '#F5F9FF',
-  card: '#FFFFFF',
-  textPrimary: '#0D1B2A',
-  textSecondary: '#546E7A',
+  background: '#68cff8',
+  card: '#ffffff',
+  textPrimary: '#020508',
+  textSecondary: '#1e1e1f',
   textOnPrimary: '#FFFFFF',
   surface: '#E3F2FD',
   border: '#E0E8F0',
